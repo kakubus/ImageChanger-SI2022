@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>left.png</file>
+        <file>mirrorLeftRight.png</file>
+        <file>mirrorUpDown.png</file>
+        <file>right.png</file>
+    </qresource>
+</RCC>
